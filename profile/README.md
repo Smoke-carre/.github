@@ -5,7 +5,8 @@
 ## Français
 
 ### Un projet de serveur Minecraft moddé
-Le thème de ce serveur est la mafia, la drogue et d'autres choses illégales. **Ce serveur doit servir d'avertissement, les drogues sont dangereuses. Nous ne sommes en aucun cas responsables de vos actes.**
+Un serveur Minecraft Moddé en 1.19, dont le thème est la mafia, la drogue et d'autres choses illégales. 
+**Ce serveur doit servir d'avertissement, les drogues sont dangereuses. Nous ne sommes en aucun cas responsables de vos actes.**
 
 ### [Serveur discord](https://discord.gg/6mxuqwU8Q6 "Serveur discord")
 
@@ -13,7 +14,7 @@ Le thème de ce serveur est la mafia, la drogue et d'autres choses illégales. *
 - Express.js
 
 ### Auteurs
-Les auteurs de ce projet sont ***Ozenrol64*** et ***CC7012***
+Les auteurs de ce projet sont ***[Ozenrol64](https://github.com/Ozenrol64)*** et ***[CC7012](https://github.com/CCC7012)***
 
 ### Contact
 Vous pouvez nous contacter ici : smoke.carre@gmail.com
