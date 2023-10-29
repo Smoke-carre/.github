@@ -1,6 +1,6 @@
 # Smoke²
 
-<img src="mediumLogo.jpg" width="480">
+<img src=".github.profile.mediumLogo.jpg" width="480">
 
 ## Français
 
