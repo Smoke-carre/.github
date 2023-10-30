@@ -1,7 +1,5 @@
 # Smoke²
 
-<img src="https://github.com/Smoke-carre/.github/blob/main/profile/mediumLogo.jpg" width="480">
-
 ![Smoke²](https://github.com/Smoke-carre/.github/blob/main/profile/mediumLogo.jpg)
 
 ## Français
