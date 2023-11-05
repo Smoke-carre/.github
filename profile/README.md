@@ -37,7 +37,7 @@ The theme of this server is mafia, drugs and other illegals things. **This serve
 - Sequelize
 
 ### Authors
-The authors of this project are ***Ozenrol64*** and ***CC7012***
+The authors of this project are ***[Ozenrol64](https://github.com/Ozenrol64)*** and ***[CC7012](https://github.com/CCC7012)***
 
 ### Contact
 You contact us here : smoke.carre@gmail.com
