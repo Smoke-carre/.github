@@ -9,8 +9,10 @@ Le thème de ce serveur est la mafia, la drogue et d'autres choses illégales. *
 
 ### [Serveur discord](https://discord.gg/6mxuqwU8Q6 "Serveur discord")
 
-### Fait avec
+### Fait avec :
 - Express.js
+- EJS
+- Sequelize
 
 ### Auteurs
 Les auteurs de ce projet sont ***Ozenrol64*** et ***CC7012***
@@ -30,6 +32,8 @@ The theme of this server is mafia, drugs and other illegals things. **This serve
 
 ### Build with
 - Express.js
+- EJS
+- Sequelize
 
 ### Authors
 The authors of this project are ***Ozenrol64*** and ***CC7012***
